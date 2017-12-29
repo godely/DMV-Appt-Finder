@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "find.js",
   "dependencies": {
+    "async": "^2.6.0",
     "zombie": "^5.0.5"
-  },
+  }
 }

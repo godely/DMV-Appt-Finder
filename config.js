@@ -1,5 +1,5 @@
 module.exports.url              = "https://www.dmv.ca.gov/wasapp/foa/clear.do?goTo=officeVisit&localeName=en";
-module.exports.intervalMinutes  = 5;
+module.exports.intervalMinutes  = 1;
 module.exports.firstName        = "John";
 module.exports.lastName         = "Doe";
 module.exports.tel              = ["123","456","7890"];
